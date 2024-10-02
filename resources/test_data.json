@@ -1,0 +1,63 @@
+{
+  "VILG_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        51,
+        52,
+        39,
+        52,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_3"] },
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_4"] },
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_5"] }
+      ],
+      ":pclass": "VILG_2",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "JNGL": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        -1,
+        1,
+        52,
+        49,
+        50,
+        53,
+        "\"Jungle\"",
+        { ":type": ":field-ref", ":names": ["JNGL-VILG_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "JNGL-VILG_2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Jungle-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "c_2228_-25_2229_-24_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        50,
+        52,
+        28,
+        51,
+        53,
+        "\"c_2228_-25_2229_-24\"",
+        { ":type": ":field-ref", ":names": ["JNGL-VILG_2"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  }
+}

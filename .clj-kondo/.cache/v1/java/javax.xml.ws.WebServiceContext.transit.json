@@ -1,0 +1,1 @@
+["^ ","~:members",["^ ","getMessageContext",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]],"getUserPrincipal",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"isUserInRole",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"getEndpointReference",["^2",[["^ ","^3",["^2",["^4","^5"]]]]]]]

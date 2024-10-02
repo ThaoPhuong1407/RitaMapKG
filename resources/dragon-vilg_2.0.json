@@ -1,0 +1,7985 @@
+{
+  "BUILDING": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        { ":type": ":field-ref", ":names": ["VILG_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_2"] },
+        { ":type": ":field-ref", ":names": ["VILG_3"] },
+        { ":type": ":field-ref", ":names": ["VILG_4"] },
+        { ":type": ":field-ref", ":names": ["VILG_5"] },
+        { ":type": ":field-ref", ":names": ["VILG_6"] },
+        { ":type": ":field-ref", ":names": ["VILG_7"] },
+        { ":type": ":field-ref", ":names": ["VILG_8"] },
+        { ":type": ":field-ref", ":names": ["VILG_9"] },
+        { ":type": ":field-ref", ":names": ["VILG_10"] },
+        { ":type": ":field-ref", ":names": ["VILG_11"] },
+        { ":type": ":field-ref", ":names": ["VILG_12"] },
+        { ":type": ":field-ref", ":names": ["VILG_13"] },
+        { ":type": ":field-ref", ":names": ["VILG_14"] },
+        { ":type": ":field-ref", ":names": ["VILG_15"] },
+        { ":type": ":field-ref", ":names": ["VILG_16"] },
+        { ":type": ":field-ref", ":names": ["VILG_17"] },
+        { ":type": ":field-ref", ":names": ["VILG_18"] },
+        { ":type": ":field-ref", ":names": ["VILG_19"] },
+        { ":type": ":field-ref", ":names": ["VILG_20"] },
+        { ":type": ":field-ref", ":names": ["VILG_21"] },
+        { ":type": ":field-ref", ":names": ["VILG_22"] },
+        { ":type": ":field-ref", ":names": ["VILG_23"] },
+        { ":type": ":field-ref", ":names": ["VILG_24"] },
+        { ":type": ":field-ref", ":names": ["VILG_25"] },
+        { ":type": ":field-ref", ":names": ["VILG_26"] },
+        { ":type": ":field-ref", ":names": ["VILG_27"] },
+        { ":type": ":field-ref", ":names": ["VILG_28"] },
+        { ":type": ":field-ref", ":names": ["VILG_29"] },
+        { ":type": ":field-ref", ":names": ["VILG_30"] },
+        { ":type": ":field-ref", ":names": ["VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_32"] },
+        { ":type": ":field-ref", ":names": ["VILG_33"] },
+        { ":type": ":field-ref", ":names": ["VILG_34"] },
+        { ":type": ":field-ref", ":names": ["VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_36"] },
+        { ":type": ":field-ref", ":names": ["VILG_37"] },
+        { ":type": ":field-ref", ":names": ["VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_39"] },
+        { ":type": ":field-ref", ":names": ["VILG_40"] },
+        { ":type": ":field-ref", ":names": ["VILG_41"] },
+        { ":type": ":field-ref", ":names": ["VILG_42"] },
+        { ":type": ":field-ref", ":names": ["VILG_43"] },
+        { ":type": ":field-ref", ":names": ["VILG_44"] },
+        { ":type": ":field-ref", ":names": ["VILG_45"] },
+        { ":type": ":field-ref", ":names": ["VILG_46"] },
+        { ":type": ":field-ref", ":names": ["VILG_47"] },
+        { ":type": ":field-ref", ":names": ["VILG_48"] },
+        { ":type": ":field-ref", ":names": ["VILG_49"] },
+        { ":type": ":field-ref", ":names": ["VILG_50"] },
+        { ":type": ":field-ref", ":names": ["VILG_51"] },
+        { ":type": ":field-ref", ":names": ["VILG_52"] },
+        { ":type": ":field-ref", ":names": ["VILG_53"] },
+        { ":type": ":field-ref", ":names": ["VILG_54"] },
+        { ":type": ":field-ref", ":names": ["VILG_55"] },
+        { ":type": ":field-ref", ":names": ["VILG_56"] },
+        { ":type": ":field-ref", ":names": ["VILG_57"] },
+        { ":type": ":field-ref", ":names": ["VILG_58"] },
+        { ":type": ":field-ref", ":names": ["VILG_59"] },
+        { ":type": ":field-ref", ":names": ["VILG_60"] },
+        { ":type": ":field-ref", ":names": ["VILG_61"] },
+        { ":type": ":field-ref", ":names": ["VILG_62"] },
+        { ":type": ":field-ref", ":names": ["VILG_63"] },
+        { ":type": ":field-ref", ":names": ["VILG_64"] },
+        { ":type": ":field-ref", ":names": ["VILG_65"] },
+        { ":type": ":field-ref", ":names": ["VILG_66"] },
+        { ":type": ":field-ref", ":names": ["VILG_67"] },
+        { ":type": ":field-ref", ":names": ["VILG_68"] },
+        { ":type": ":field-ref", ":names": ["VILG_69"] },
+        { ":type": ":field-ref", ":names": ["VILG_70"] },
+        { ":type": ":field-ref", ":names": ["VILG_71"] },
+        { ":type": ":field-ref", ":names": ["VILG_72"] },
+        { ":type": ":field-ref", ":names": ["VILG_73"] },
+        { ":type": ":field-ref", ":names": ["VILG_74"] },
+        { ":type": ":field-ref", ":names": ["VILG_75"] },
+        { ":type": ":field-ref", ":names": ["VILG_76"] },
+        { ":type": ":field-ref", ":names": ["VILG_77"] },
+        { ":type": ":field-ref", ":names": ["VILG_78"] },
+        { ":type": ":field-ref", ":names": ["VILG_79"] },
+        { ":type": ":field-ref", ":names": ["VILG_80"] },
+        { ":type": ":field-ref", ":names": ["VILG_81"] },
+        { ":type": ":field-ref", ":names": ["VYQR3FY"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_1"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_5"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_6"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_7"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_8"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_9"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_14"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_15"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_1"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_5"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_6"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_7"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_8"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_9"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_14"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_15"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_1"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_3"] }
+      ],
+      ":pclass": "Building",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQR1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        92,
+        52,
+        23,
+        100,
+        53,
+        "\"Village Blue 1\"",
+        { ":type": ":field-ref", ":names": ["VILG_75-VBQR1"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQR2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        7,
+        80,
+        52,
+        12,
+        84,
+        53,
+        "\"Village Blue 2\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VBQR2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQR3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        80,
+        52,
+        6,
+        86,
+        53,
+        "\"Village Blue 3\"",
+        { ":type": ":field-ref", ":names": ["VILG_53-VBQR3"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQR4_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        89,
+        52,
+        10,
+        92,
+        53,
+        "\"Village Blue 4\"",
+        { ":type": ":field-ref", ":names": ["VILG_78-VBQR4_1"] },
+        { ":type": ":field-ref", ":names": ["VBQR4_1-VBQR4_2"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQR4_1-VBQR4_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Blue 4-Village Blue 4\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VBQR4_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        7,
+        92,
+        52,
+        10,
+        94,
+        53,
+        "\"Village Blue 4\"",
+        { ":type": ":field-ref", ":names": ["VBQR4_1-VBQR4_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQR5": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        98,
+        52,
+        10,
+        100,
+        53,
+        "\"Village Blue 5\"",
+        { ":type": ":field-ref", ":names": ["VILG_78-VBQR5"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQRSTB_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        89,
+        52,
+        15,
+        98,
+        53,
+        "\"Village Blue Stables\"",
+        { ":type": ":field-ref", ":names": ["VILG_71-VBQRSTB_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_69-VBQRSTB_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_67-VBQRSTB_1"] },
+        { ":type": ":field-ref", ":names": ["VBQRSTB_1-VBQRSTB_2"] }
+      ],
+      ":pclass": "Room4Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VBQRSTB_1-VBQRSTB_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Blue Stables-Village Blue Stables\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VBQRSTB_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        98,
+        52,
+        15,
+        99,
+        53,
+        "\"Village Blue Stables\"",
+        { ":type": ":field-ref", ":names": ["VBQRSTB_1-VBQRSTB_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        51,
+        52,
+        2,
+        60,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_1-VILG_2"] }
+      ],
+      ":pclass": "VILG_1",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_1-VILG_2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_10": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        52,
+        52,
+        31,
+        53,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_6-VILG_10"] },
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_10"] },
+        { ":type": ":field-ref", ":names": ["VILG_10-VILG_13"] }
+      ],
+      ":pclass": "VILG_10",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_10-VILG_13": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_11": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        52,
+        52,
+        39,
+        53,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_11"] },
+        { ":type": ":field-ref", ":names": ["VILG_8-VILG_11"] },
+        { ":type": ":field-ref", ":names": ["VILG_11-VILG_14"] }
+      ],
+      ":pclass": "VILG_11",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_11-VILG_14": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_12": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        53,
+        52,
+        17,
+        54,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_12-VILG_15"] },
+        { ":type": ":field-ref", ":names": ["VILG_12-VILG_16"] }
+      ],
+      ":pclass": "VILG_12",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_12-VILG_15": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_12-VILG_16": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_13": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        53,
+        52,
+        30,
+        54,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_10-VILG_13"] },
+        { ":type": ":field-ref", ":names": ["VILG_13-VILG_17"] }
+      ],
+      ":pclass": "VILG_13",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_13-VILG_17": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_14": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        53,
+        52,
+        39,
+        54,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_11-VILG_14"] },
+        { ":type": ":field-ref", ":names": ["VILG_14-VILG_18"] }
+      ],
+      ":pclass": "VILG_14",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_14-VILG_18": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_15": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        54,
+        52,
+        15,
+        57,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_12-VILG_15"] },
+        { ":type": ":field-ref", ":names": ["VILG_15-VILG_21"] },
+        { ":type": ":field-ref", ":names": ["VILG_15-VILG_22"] }
+      ],
+      ":pclass": "VILG_15",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_15-VILG_21": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_15-VILG_22": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_16": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        54,
+        52,
+        17,
+        57,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_12-VILG_16"] },
+        { ":type": ":field-ref", ":names": ["VILG_16-VILG_21"] },
+        { ":type": ":field-ref", ":names": ["VILG_16-VILG_22"] }
+      ],
+      ":pclass": "VILG_16",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_16-VILG_21": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_16-VILG_22": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_17": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        54,
+        52,
+        29,
+        61,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_13-VILG_17"] },
+        { ":type": ":field-ref", ":names": ["VILG_17-VILG_24"] },
+        { ":type": ":field-ref", ":names": ["VILG_17-VILG_31"] }
+      ],
+      ":pclass": "VILG_17",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_17-VILG_24": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_17-VILG_31": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_18": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        54,
+        52,
+        39,
+        58,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_14-VILG_18"] },
+        { ":type": ":field-ref", ":names": ["VILG_18-VILG_19"] },
+        { ":type": ":field-ref", ":names": ["VILG_18-VILG_25"] }
+      ],
+      ":pclass": "VILG_18",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_18-VILG_19": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_18-VILG_25": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_19": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        39,
+        55,
+        52,
+        45,
+        57,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_19-VPQR2"] },
+        { ":type": ":field-ref", ":names": ["VILG_19-VPQR3"] },
+        { ":type": ":field-ref", ":names": ["VILG_18-VILG_19"] },
+        { ":type": ":field-ref", ":names": ["VILG_19-VILG_20"] }
+      ],
+      ":pclass": "VILG_19",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_19-VILG_20": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_19-VPQR2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 2\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_19-VPQR3": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 3\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        60,
+        52,
+        2,
+        69,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_1-VILG_2"] },
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_3"] },
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_32"] }
+      ],
+      ":pclass": "VILG_2",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_2-VILG_3": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_2-VILG_32": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_20": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        55,
+        52,
+        51,
+        57,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_20-VPQR1"] },
+        { ":type": ":field-ref", ":names": ["VILG_20-VPQR4"] },
+        { ":type": ":field-ref", ":names": ["VILG_19-VILG_20"] }
+      ],
+      ":pclass": "VILG_20",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_20-VPQR1": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 1\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_20-VPQR4": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 4\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_21": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        15,
+        56,
+        52,
+        16,
+        57,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_15-VILG_21"] },
+        { ":type": ":field-ref", ":names": ["VILG_16-VILG_21"] },
+        { ":type": ":field-ref", ":names": ["VILG_21-VILG_22"] }
+      ],
+      ":pclass": "VILG_21",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_21-VILG_22": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_22": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        57,
+        52,
+        20,
+        61,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VYQR1_2"] },
+        { ":type": ":field-ref", ":names": ["VILG_9-VILG_22"] },
+        { ":type": ":field-ref", ":names": ["VILG_15-VILG_22"] },
+        { ":type": ":field-ref", ":names": ["VILG_16-VILG_22"] },
+        { ":type": ":field-ref", ":names": ["VILG_21-VILG_22"] },
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_23"] },
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_29"] },
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_30"] }
+      ],
+      ":pclass": "VILG_22",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_22-VILG_23": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_22-VILG_29": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_22-VILG_30": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_22-VYQR1_2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Yellow 1\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_23": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        7,
+        58,
+        52,
+        13,
+        61,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_23-VYQR2_2"] },
+        { ":type": ":field-ref", ":names": ["VILG_9-VILG_23"] },
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_23"] },
+        { ":type": ":field-ref", ":names": ["VILG_23-VILG_29"] }
+      ],
+      ":pclass": "VILG_23",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_23-VILG_29": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_23-VYQR2_2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Yellow 2\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_24": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        29,
+        58,
+        52,
+        30,
+        61,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_17-VILG_24"] },
+        { ":type": ":field-ref", ":names": ["VILG_24-VILG_26"] },
+        { ":type": ":field-ref", ":names": ["VILG_24-VILG_31"] }
+      ],
+      ":pclass": "VILG_24",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_24-VILG_26": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_24-VILG_31": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_25": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        58,
+        52,
+        39,
+        64,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_18-VILG_25"] },
+        { ":type": ":field-ref", ":names": ["VILG_25-VILG_27"] },
+        { ":type": ":field-ref", ":names": ["VILG_25-VILG_38"] }
+      ],
+      ":pclass": "VILG_25",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_25-VILG_27": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_25-VILG_38": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_26": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        59,
+        52,
+        31,
+        62,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_24-VILG_26"] },
+        { ":type": ":field-ref", ":names": ["VILG_26-VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_26-VILG_35"] }
+      ],
+      ":pclass": "VILG_26",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_26-VILG_31": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_26-VILG_35": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_27": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        59,
+        52,
+        36,
+        64,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_25-VILG_27"] },
+        { ":type": ":field-ref", ":names": ["VILG_27-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_27-VILG_38"] }
+      ],
+      ":pclass": "VILG_27",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_27-VILG_35": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_27-VILG_38": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_28": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        60,
+        52,
+        34,
+        62,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_28-VPQR7_3"] },
+        { ":type": ":field-ref", ":names": ["VILG_28-VILG_35"] }
+      ],
+      ":pclass": "VILG_28",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_28-VILG_35": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_28-VPQR7_3": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 7\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_29": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        61,
+        52,
+        16,
+        62,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_29"] },
+        { ":type": ":field-ref", ":names": ["VILG_23-VILG_29"] },
+        { ":type": ":field-ref", ":names": ["VILG_29-VILG_30"] },
+        { ":type": ":field-ref", ":names": ["VILG_29-VILG_33"] }
+      ],
+      ":pclass": "VILG_29",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_29-VILG_30": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_29-VILG_33": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        69,
+        52,
+        2,
+        78,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_3"] },
+        { ":type": ":field-ref", ":names": ["VILG_3-VILG_4"] },
+        { ":type": ":field-ref", ":names": ["VILG_3-VILG_49"] }
+      ],
+      ":pclass": "VILG_3",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_3-VILG_4": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_3-VILG_49": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_30": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        61,
+        52,
+        23,
+        62,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_30"] },
+        { ":type": ":field-ref", ":names": ["VILG_29-VILG_30"] },
+        { ":type": ":field-ref", ":names": ["VILG_30-VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_30-VILG_34"] }
+      ],
+      ":pclass": "VILG_30",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_30-VILG_31": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_30-VILG_34": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_31": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        23,
+        61,
+        52,
+        30,
+        62,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_17-VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_24-VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_26-VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_30-VILG_31"] },
+        { ":type": ":field-ref", ":names": ["VILG_31-VILG_34"] },
+        { ":type": ":field-ref", ":names": ["VILG_31-VILG_35"] }
+      ],
+      ":pclass": "VILG_31",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_31-VILG_34": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_31-VILG_35": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_32": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        62,
+        52,
+        8,
+        65,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_32"] },
+        { ":type": ":field-ref", ":names": ["VILG_32-VILG_33"] }
+      ],
+      ":pclass": "VILG_32",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_32-VILG_33": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_33": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        8,
+        62,
+        52,
+        14,
+        65,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_29-VILG_33"] },
+        { ":type": ":field-ref", ":names": ["VILG_32-VILG_33"] }
+      ],
+      ":pclass": "VILG_33",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_34": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        62,
+        52,
+        26,
+        65,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_30-VILG_34"] },
+        { ":type": ":field-ref", ":names": ["VILG_31-VILG_34"] },
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_39"] },
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_40"] }
+      ],
+      ":pclass": "VILG_34",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_34-VILG_35": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_34-VILG_39": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_34-VILG_40": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_35": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        62,
+        52,
+        35,
+        65,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_26-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_27-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_28-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_31-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_35"] },
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_40"] },
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_41"] }
+      ],
+      ":pclass": "VILG_35",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_35-VILG_38": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_35-VILG_40": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_35-VILG_41": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_36": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        40,
+        63,
+        52,
+        42,
+        64,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_36-VPQR5"] },
+        { ":type": ":field-ref", ":names": ["VILG_36-VILG_38"] }
+      ],
+      ":pclass": "VILG_36",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_36-VILG_38": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_36-VPQR5": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 5\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_37": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        43,
+        63,
+        52,
+        51,
+        66,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_37-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_37-VILG_43"] }
+      ],
+      ":pclass": "VILG_37",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_37-VILG_38": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_37-VILG_43": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_38": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        64,
+        52,
+        43,
+        66,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_25-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_27-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_36-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_37-VILG_38"] },
+        { ":type": ":field-ref", ":names": ["VILG_38-VILG_41"] },
+        { ":type": ":field-ref", ":names": ["VILG_38-VILG_43"] }
+      ],
+      ":pclass": "VILG_38",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_38-VILG_41": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_38-VILG_43": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_39": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        65,
+        52,
+        21,
+        66,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_39"] },
+        { ":type": ":field-ref", ":names": ["VILG_39-VILG_40"] },
+        { ":type": ":field-ref", ":names": ["VILG_39-VILG_42"] }
+      ],
+      ":pclass": "VILG_39",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_39-VILG_40": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_39-VILG_42": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_4": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        78,
+        52,
+        2,
+        79,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_3-VILG_4"] },
+        { ":type": ":field-ref", ":names": ["VILG_4-VILG_53"] }
+      ],
+      ":pclass": "VILG_4",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_4-VILG_53": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_40": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        65,
+        52,
+        28,
+        66,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_40"] },
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_40"] },
+        { ":type": ":field-ref", ":names": ["VILG_39-VILG_40"] },
+        { ":type": ":field-ref", ":names": ["VILG_40-VILG_41"] }
+      ],
+      ":pclass": "VILG_40",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_40-VILG_41": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_41": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        65,
+        52,
+        35,
+        66,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_41"] },
+        { ":type": ":field-ref", ":names": ["VILG_38-VILG_41"] },
+        { ":type": ":field-ref", ":names": ["VILG_40-VILG_41"] }
+      ],
+      ":pclass": "VILG_41",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_42": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        66,
+        52,
+        19,
+        67,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_39-VILG_42"] },
+        { ":type": ":field-ref", ":names": ["VILG_42-VILG_44"] }
+      ],
+      ":pclass": "VILG_42",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_42-VILG_44": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_43": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        66,
+        52,
+        45,
+        67,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_37-VILG_43"] },
+        { ":type": ":field-ref", ":names": ["VILG_38-VILG_43"] },
+        { ":type": ":field-ref", ":names": ["VILG_43-VILG_45"] }
+      ],
+      ":pclass": "VILG_43",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_43-VILG_45": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_44": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        67,
+        52,
+        18,
+        68,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_42-VILG_44"] },
+        { ":type": ":field-ref", ":names": ["VILG_44-VILG_46"] }
+      ],
+      ":pclass": "VILG_44",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_44-VILG_46": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_45": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        67,
+        52,
+        45,
+        68,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_43-VILG_45"] },
+        { ":type": ":field-ref", ":names": ["VILG_45-VILG_47"] }
+      ],
+      ":pclass": "VILG_45",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_45-VILG_47": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_46": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        68,
+        52,
+        17,
+        70,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_46-VYQR3FY"] },
+        { ":type": ":field-ref", ":names": ["VILG_44-VILG_46"] },
+        { ":type": ":field-ref", ":names": ["VILG_46-VILG_48"] }
+      ],
+      ":pclass": "VILG_46",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_46-VILG_48": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_46-VYQR3FY": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village-Village Yellow 3 Front Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VILG_47": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        68,
+        52,
+        45,
+        78,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VPQR6"] },
+        { ":type": ":field-ref", ":names": ["VILG_47-VOQR1"] },
+        { ":type": ":field-ref", ":names": ["VILG_45-VILG_47"] },
+        { ":type": ":field-ref", ":names": ["VILG_47-VILG_51"] },
+        { ":type": ":field-ref", ":names": ["VILG_47-VILG_55"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_2-VILG_47"] }
+      ],
+      ":pclass": "VILG_47",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_47-VILG_51": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_47-VILG_55": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_47-VOQR1": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 1\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_47-VPQR6": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Purple 6\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_48": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        70,
+        52,
+        16,
+        74,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_46-VILG_48"] },
+        { ":type": ":field-ref", ":names": ["VILG_48-VILG_50"] }
+      ],
+      ":pclass": "VILG_48",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_48-VILG_50": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_49": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        74,
+        52,
+        10,
+        78,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_3-VILG_49"] },
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_50"] },
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_53"] },
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_54"] }
+      ],
+      ":pclass": "VILG_49",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_49-VILG_50": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_49-VILG_53": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_49-VILG_54": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_5": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        51,
+        52,
+        20,
+        52,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_5-VILG_6"] },
+        { ":type": ":field-ref", ":names": ["VILG_5-VILG_9"] }
+      ],
+      ":pclass": "VILG_5",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_5-VILG_6": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_5-VILG_9": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_50": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        74,
+        52,
+        19,
+        78,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VRQCRY_2"] },
+        { ":type": ":field-ref", ":names": ["VILG_50-VRQCLY_13"] },
+        { ":type": ":field-ref", ":names": ["VILG_48-VILG_50"] },
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_50"] },
+        { ":type": ":field-ref", ":names": ["VILG_50-VILG_52"] },
+        { ":type": ":field-ref", ":names": ["VILG_50-VILG_54"] }
+      ],
+      ":pclass": "VILG_50",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_50-VILG_52": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_50-VILG_54": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_50-VRQCLY_13": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Church Left Yard\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_50-VRQCRY_2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Church Right Yard\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_51": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        74,
+        52,
+        51,
+        78,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VILG_51"] }
+      ],
+      ":pclass": "VILG_51",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_52": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        75,
+        52,
+        20,
+        77,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_52-VRQC_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_50-VILG_52"] }
+      ],
+      ":pclass": "VILG_52",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_52-VRQC_1": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Church\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_53": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        78,
+        52,
+        9,
+        79,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_53-VBQR3"] },
+        { ":type": ":field-ref", ":names": ["VILG_4-VILG_53"] },
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_53"] },
+        { ":type": ":field-ref", ":names": ["VILG_53-VILG_54"] }
+      ],
+      ":pclass": "VILG_53",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_53-VBQR3": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Blue 3\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_53-VILG_54": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_54": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        78,
+        52,
+        16,
+        79,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_54"] },
+        { ":type": ":field-ref", ":names": ["VILG_50-VILG_54"] },
+        { ":type": ":field-ref", ":names": ["VILG_53-VILG_54"] },
+        { ":type": ":field-ref", ":names": ["VILG_54-VILG_56"] }
+      ],
+      ":pclass": "VILG_54",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_54-VILG_56": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_55": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        78,
+        52,
+        41,
+        84,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VILG_55"] },
+        { ":type": ":field-ref", ":names": ["VILG_55-VILG_59"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VILG_55"] }
+      ],
+      ":pclass": "VILG_55",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_55-VILG_59": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_56": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        79,
+        52,
+        16,
+        85,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_54-VILG_56"] },
+        { ":type": ":field-ref", ":names": ["VILG_56-VILG_57"] },
+        { ":type": ":field-ref", ":names": ["VILG_56-VILG_61"] }
+      ],
+      ":pclass": "VILG_56",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_56-VILG_57": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_56-VILG_61": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_57": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        82,
+        52,
+        17,
+        85,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_56-VILG_57"] },
+        { ":type": ":field-ref", ":names": ["VILG_57-VILG_58"] },
+        { ":type": ":field-ref", ":names": ["VILG_57-VILG_61"] }
+      ],
+      ":pclass": "VILG_57",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_57-VILG_58": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_57-VILG_61": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_58": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        84,
+        52,
+        18,
+        85,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_57-VILG_58"] },
+        { ":type": ":field-ref", ":names": ["VILG_58-VILG_61"] }
+      ],
+      ":pclass": "VILG_58",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_58-VILG_61": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_59": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        84,
+        52,
+        44,
+        86,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_55-VILG_59"] },
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_62"] },
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_64"] },
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_65"] }
+      ],
+      ":pclass": "VILG_59",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_59-VILG_62": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_59-VILG_64": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_59-VILG_65": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_6": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        51,
+        52,
+        29,
+        52,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_5-VILG_6"] },
+        { ":type": ":field-ref", ":names": ["VILG_6-VILG_7"] },
+        { ":type": ":field-ref", ":names": ["VILG_6-VILG_10"] }
+      ],
+      ":pclass": "VILG_6",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_6-VILG_10": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_6-VILG_7": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_60": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        7,
+        85,
+        52,
+        13,
+        87,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VBQR2"] },
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_61"] },
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_66"] },
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_67"] }
+      ],
+      ":pclass": "VILG_60",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_60-VBQR2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Blue 2\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_60-VILG_61": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_60-VILG_66": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_60-VILG_67": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_61": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        85,
+        52,
+        19,
+        87,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_56-VILG_61"] },
+        { ":type": ":field-ref", ":names": ["VILG_57-VILG_61"] },
+        { ":type": ":field-ref", ":names": ["VILG_58-VILG_61"] },
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_61"] },
+        { ":type": ":field-ref", ":names": ["VILG_61-VILG_63"] },
+        { ":type": ":field-ref", ":names": ["VILG_61-VILG_67"] }
+      ],
+      ":pclass": "VILG_61",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_61-VILG_63": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_61-VILG_67": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_62": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        85,
+        52,
+        36,
+        86,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_62"] },
+        { ":type": ":field-ref", ":names": ["VILG_62-VILG_64"] }
+      ],
+      ":pclass": "VILG_62",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_62-VILG_64": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_63": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        86,
+        52,
+        28,
+        88,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_61-VILG_63"] },
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_64"] },
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_67"] },
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_72"] }
+      ],
+      ":pclass": "VILG_63",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_63-VILG_64": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_63-VILG_67": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_63-VILG_72": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_64": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        86,
+        52,
+        37,
+        88,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_64"] },
+        { ":type": ":field-ref", ":names": ["VILG_62-VILG_64"] },
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_64"] },
+        { ":type": ":field-ref", ":names": ["VILG_64-VILG_73"] }
+      ],
+      ":pclass": "VILG_64",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_64-VILG_73": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_65": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        42,
+        86,
+        52,
+        44,
+        93,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_65-VOQR8"] },
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_65"] },
+        { ":type": ":field-ref", ":names": ["VILG_65-VILG_79"] }
+      ],
+      ":pclass": "VILG_65",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_65-VILG_79": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_65-VOQR8": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 8\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_66": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        87,
+        52,
+        10,
+        88,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_66"] },
+        { ":type": ":field-ref", ":names": ["VILG_66-VILG_67"] }
+      ],
+      ":pclass": "VILG_66",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_66-VILG_67": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_67": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        87,
+        52,
+        19,
+        88,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_67-VBQRSTB_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_67"] },
+        { ":type": ":field-ref", ":names": ["VILG_61-VILG_67"] },
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_67"] },
+        { ":type": ":field-ref", ":names": ["VILG_66-VILG_67"] },
+        { ":type": ":field-ref", ":names": ["VILG_67-VILG_68"] },
+        { ":type": ":field-ref", ":names": ["VILG_67-VILG_70"] }
+      ],
+      ":pclass": "VILG_67",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_67-VBQRSTB_1": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village-Village Blue Stables\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VILG_67-VILG_68": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_67-VILG_70": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_68": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        88,
+        52,
+        12,
+        94,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_67-VILG_68"] },
+        { ":type": ":field-ref", ":names": ["VILG_68-VILG_69"] }
+      ],
+      ":pclass": "VILG_68",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_68-VILG_69": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_69": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        94,
+        52,
+        12,
+        100,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_69-VBQRSTB_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_68-VILG_69"] },
+        { ":type": ":field-ref", ":names": ["VILG_69-VILG_81"] }
+      ],
+      ":pclass": "VILG_69",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_69-VBQRSTB_1": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village-Village Blue Stables\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VILG_69-VILG_81": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_7": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        29,
+        51,
+        52,
+        38,
+        52,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_6-VILG_7"] },
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_8"] },
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_10"] },
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_11"] }
+      ],
+      ":pclass": "VILG_7",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_7-VILG_10": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_7-VILG_11": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_7-VILG_8": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_70": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        88,
+        52,
+        17,
+        94,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_67-VILG_70"] },
+        { ":type": ":field-ref", ":names": ["VILG_70-VILG_71"] },
+        { ":type": ":field-ref", ":names": ["VILG_70-VILG_74"] }
+      ],
+      ":pclass": "VILG_70",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_70-VILG_71": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_70-VILG_74": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_71": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        94,
+        52,
+        17,
+        100,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_71-VBQRSTB_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_70-VILG_71"] }
+      ],
+      ":pclass": "VILG_71",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_71-VBQRSTB_1": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village-Village Blue Stables\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VILG_72": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        88,
+        52,
+        28,
+        90,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_72"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_73"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_74"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_75"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_76"] }
+      ],
+      ":pclass": "VILG_72",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_72-VILG_73": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_72-VILG_74": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_72-VILG_75": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_72-VILG_76": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_73": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        88,
+        52,
+        37,
+        90,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_73-VOQR9"] },
+        { ":type": ":field-ref", ":names": ["VILG_64-VILG_73"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_73"] },
+        { ":type": ":field-ref", ":names": ["VILG_73-VILG_76"] }
+      ],
+      ":pclass": "VILG_73",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_73-VILG_76": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_73-VOQR9": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 9\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_74": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        89,
+        52,
+        20,
+        91,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_70-VILG_74"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_74"] },
+        { ":type": ":field-ref", ":names": ["VILG_74-VILG_75"] }
+      ],
+      ":pclass": "VILG_74",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_74-VILG_75": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_75": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        90,
+        52,
+        25,
+        91,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_75-VBQR1"] },
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_75"] },
+        { ":type": ":field-ref", ":names": ["VILG_74-VILG_75"] },
+        { ":type": ":field-ref", ":names": ["VILG_75-VILG_76"] },
+        { ":type": ":field-ref", ":names": ["VILG_75-VILG_77"] }
+      ],
+      ":pclass": "VILG_75",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_75-VBQR1": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Blue 1\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_75-VILG_76": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_75-VILG_77": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_76": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        90,
+        52,
+        31,
+        91,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_76"] },
+        { ":type": ":field-ref", ":names": ["VILG_73-VILG_76"] },
+        { ":type": ":field-ref", ":names": ["VILG_75-VILG_76"] },
+        { ":type": ":field-ref", ":names": ["VILG_76-VILG_77"] }
+      ],
+      ":pclass": "VILG_76",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_76-VILG_77": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_77": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        24,
+        91,
+        52,
+        31,
+        100,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_77-VOQR10"] },
+        { ":type": ":field-ref", ":names": ["VILG_75-VILG_77"] },
+        { ":type": ":field-ref", ":names": ["VILG_76-VILG_77"] }
+      ],
+      ":pclass": "VILG_77",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_77-VOQR10": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 10\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_78": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        93,
+        52,
+        6,
+        97,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_78-VBQR4_1"] },
+        { ":type": ":field-ref", ":names": ["VILG_78-VBQR5"] },
+        { ":type": ":field-ref", ":names": ["VILG_78-VILG_81"] }
+      ],
+      ":pclass": "VILG_78",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_78-VBQR4_1": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Blue 4\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_78-VBQR5": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Blue 5\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_78-VILG_81": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_79": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        38,
+        93,
+        52,
+        44,
+        95,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_79-VOQR6"] },
+        { ":type": ":field-ref", ":names": ["VILG_79-VOQR7"] },
+        { ":type": ":field-ref", ":names": ["VILG_65-VILG_79"] },
+        { ":type": ":field-ref", ":names": ["VILG_79-VILG_80"] }
+      ],
+      ":pclass": "VILG_79",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_79-VILG_80": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_79-VOQR6": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 6\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_79-VOQR7": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 7\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_8": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        38,
+        51,
+        52,
+        39,
+        52,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_8"] },
+        { ":type": ":field-ref", ":names": ["VILG_8-VILG_11"] }
+      ],
+      ":pclass": "VILG_8",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_8-VILG_11": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_80": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        44,
+        93,
+        52,
+        51,
+        95,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_80-VOQR5"] },
+        { ":type": ":field-ref", ":names": ["VILG_79-VILG_80"] }
+      ],
+      ":pclass": "VILG_80",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_80-VOQR5": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village Orange 5\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_81": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        6,
+        95,
+        52,
+        11,
+        97,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_69-VILG_81"] },
+        { ":type": ":field-ref", ":names": ["VILG_78-VILG_81"] }
+      ],
+      ":pclass": "VILG_81",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_9": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        52,
+        52,
+        13,
+        58,
+        53,
+        "\"Village\"",
+        { ":type": ":field-ref", ":names": ["VILG_5-VILG_9"] },
+        { ":type": ":field-ref", ":names": ["VILG_9-VILG_22"] },
+        { ":type": ":field-ref", ":names": ["VILG_9-VILG_23"] }
+      ],
+      ":pclass": "VILG_9",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VILG_9-VILG_22": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VILG_9-VILG_23": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Village-Village\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VOQR1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        42,
+        79,
+        52,
+        50,
+        83,
+        53,
+        "\"Village Orange 1\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VOQR1"] },
+        { ":type": ":field-ref", ":names": ["VOQR1-VOQR2"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR1-VOQR2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Orange 1-Village Orange 2\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VOQR10": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        96,
+        52,
+        37,
+        100,
+        53,
+        "\"Village Orange 10\"",
+        { ":type": ":field-ref", ":names": ["VILG_77-VOQR10"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        84,
+        52,
+        50,
+        87,
+        53,
+        "\"Village Orange 2\"",
+        { ":type": ":field-ref", ":names": ["VOQR1-VOQR2"] },
+        { ":type": ":field-ref", ":names": ["VOQR2-VOQR3"] },
+        { ":type": ":field-ref", ":names": ["VOQR2-VOQR4"] }
+      ],
+      ":pclass": "Room3Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR2-VOQR3": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Orange 2-Village Orange 3\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VOQR2-VOQR4": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Orange 2-Village Orange 4\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VOQR3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        48,
+        88,
+        52,
+        50,
+        92,
+        53,
+        "\"Village Orange 3\"",
+        { ":type": ":field-ref", ":names": ["VOQR2-VOQR3"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR4": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        88,
+        52,
+        47,
+        92,
+        53,
+        "\"Village Orange 4\"",
+        { ":type": ":field-ref", ":names": ["VOQR2-VOQR4"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR5": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        47,
+        96,
+        52,
+        50,
+        100,
+        53,
+        "\"Village Orange 5\"",
+        { ":type": ":field-ref", ":names": ["VILG_80-VOQR5"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR6": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        42,
+        96,
+        52,
+        46,
+        100,
+        53,
+        "\"Village Orange 6\"",
+        { ":type": ":field-ref", ":names": ["VILG_79-VOQR6"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR7": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        38,
+        96,
+        52,
+        41,
+        100,
+        53,
+        "\"Village Orange 7\"",
+        { ":type": ":field-ref", ":names": ["VILG_79-VOQR7"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR8": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        38,
+        87,
+        52,
+        41,
+        92,
+        53,
+        "\"Village Orange 8\"",
+        { ":type": ":field-ref", ":names": ["VILG_65-VOQR8"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VOQR9": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        91,
+        52,
+        37,
+        95,
+        53,
+        "\"Village Orange 9\"",
+        { ":type": ":field-ref", ":names": ["VILG_73-VOQR9"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        48,
+        52,
+        52,
+        50,
+        54,
+        53,
+        "\"Village Purple 1\"",
+        { ":type": ":field-ref", ":names": ["VILG_20-VPQR1"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        44,
+        52,
+        52,
+        47,
+        54,
+        53,
+        "\"Village Purple 2\"",
+        { ":type": ":field-ref", ":names": ["VILG_19-VPQR2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        40,
+        52,
+        52,
+        43,
+        54,
+        53,
+        "\"Village Purple 3\"",
+        { ":type": ":field-ref", ":names": ["VILG_19-VPQR3"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR4": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        47,
+        58,
+        52,
+        50,
+        62,
+        53,
+        "\"Village Purple 4\"",
+        { ":type": ":field-ref", ":names": ["VILG_20-VPQR4"] },
+        { ":type": ":field-ref", ":names": ["VPQR5-VPQR4"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR5": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        40,
+        58,
+        52,
+        46,
+        62,
+        53,
+        "\"Village Purple 5\"",
+        { ":type": ":field-ref", ":names": ["VILG_36-VPQR5"] },
+        { ":type": ":field-ref", ":names": ["VPQR5-VPQR4"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR5-VPQR4": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Purple 5-Village Purple 4\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VPQR6": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        46,
+        67,
+        52,
+        50,
+        73,
+        53,
+        "\"Village Purple 6\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VPQR6"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR7_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        31,
+        53,
+        52,
+        35,
+        54,
+        53,
+        "\"Village Purple 7\"",
+        { ":type": ":field-ref", ":names": ["VPQR7_1-VPQR7_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR7_1-VPQR7_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Purple 7-Village Purple 7\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VPQR7_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        54,
+        52,
+        36,
+        58,
+        53,
+        "\"Village Purple 7\"",
+        { ":type": ":field-ref", ":names": ["VPQR7_1-VPQR7_2"] },
+        { ":type": ":field-ref", ":names": ["VPQR7_2-VPQR7_3"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VPQR7_2-VPQR7_3": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Purple 7-Village Purple 7\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VPQR7_3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        31,
+        58,
+        52,
+        35,
+        59,
+        53,
+        "\"Village Purple 7\"",
+        { ":type": ":field-ref", ":names": ["VILG_28-VPQR7_3"] },
+        { ":type": ":field-ref", ":names": ["VPQR7_2-VPQR7_3"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        67,
+        52,
+        27,
+        68,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_1-VRQCLY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_1-VRQCLY_3"] }
+      ],
+      ":pclass": "VRQCLY_1",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_1-VRQCLY_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_1-VRQCLY_3": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_10": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        70,
+        52,
+        28,
+        71,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_10"] }
+      ],
+      ":pclass": "VRQCLY_10",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        70,
+        52,
+        31,
+        71,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_11"] }
+      ],
+      ":pclass": "VRQCLY_11",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_12": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        70,
+        52,
+        36,
+        71,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_12-VRQCLY_14"] }
+      ],
+      ":pclass": "VRQCLY_12",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_12-VRQCLY_14": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        71,
+        52,
+        20,
+        73,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VRQCLY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_7-VRQCLY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_13-VRQCLY_15"] }
+      ],
+      ":pclass": "VRQCLY_13",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_13-VRQCLY_15": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_14": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        71,
+        52,
+        36,
+        73,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_12-VRQCLY_14"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_3-VRQCLY_14"] }
+      ],
+      ":pclass": "VRQCLY_14",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_15": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        73,
+        52,
+        20,
+        74,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_13-VRQCLY_15"] }
+      ],
+      ":pclass": "VRQCLY_15",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        67,
+        52,
+        34,
+        68,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_1-VRQCLY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_2-VRQCLY_4"] }
+      ],
+      ":pclass": "VRQCLY_2",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_2-VRQCLY_4": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        68,
+        52,
+        27,
+        69,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_1-VRQCLY_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_3-VRQCLY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_3-VRQCLY_5"] }
+      ],
+      ":pclass": "VRQCLY_3",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_3-VRQCLY_4": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_3-VRQCLY_5": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_4": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        68,
+        52,
+        35,
+        69,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_2-VRQCLY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_3-VRQCLY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_4-VRQCLY_6"] }
+      ],
+      ":pclass": "VRQCLY_4",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_4-VRQCLY_6": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_5": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        69,
+        52,
+        27,
+        70,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_3-VRQCLY_5"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_6"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_7"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_8"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_9"] }
+      ],
+      ":pclass": "VRQCLY_5",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_5-VRQCLY_6": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_5-VRQCLY_7": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_5-VRQCLY_8": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_5-VRQCLY_9": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_6": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        69,
+        52,
+        36,
+        70,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_4-VRQCLY_6"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_6"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_12"] }
+      ],
+      ":pclass": "VRQCLY_6",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_6-VRQCLY_10": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_6-VRQCLY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_6-VRQCLY_12": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_7": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        70,
+        52,
+        21,
+        71,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_7"] },
+        { ":type": ":field-ref", ":names": ["VRQCLY_7-VRQCLY_13"] }
+      ],
+      ":pclass": "VRQCLY_7",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_7-VRQCLY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Left Yard-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCLY_8": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        22,
+        70,
+        52,
+        23,
+        71,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_8"] }
+      ],
+      ":pclass": "VRQCLY_8",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCLY_9": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        70,
+        52,
+        26,
+        71,
+        53,
+        "\"Church Left Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_9"] }
+      ],
+      ":pclass": "VRQCLY_9",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        78,
+        52,
+        20,
+        81,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_1-VRQCRY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_1-VRQCRY_4"] }
+      ],
+      ":pclass": "VRQCRY_1",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_1-VRQCRY_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_1-VRQCRY_4": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_10": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        82,
+        52,
+        26,
+        83,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_4-VRQCRY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_5-VRQCRY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_6-VRQCRY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_10-VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_10-VRQCRY_12"] }
+      ],
+      ":pclass": "VRQCRY_10",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_10-VRQCRY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_10-VRQCRY_12": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        82,
+        52,
+        32,
+        83,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_7-VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_8-VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_9-VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_10-VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_11-VRQCRY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_11-VRQCRY_13"] }
+      ],
+      ":pclass": "VRQCRY_11",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_11-VRQCRY_12": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_11-VRQCRY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_12": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        83,
+        52,
+        27,
+        84,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_4-VRQCRY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_10-VRQCRY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_11-VRQCRY_12"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_12-VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_12-VRQCRY_14"] }
+      ],
+      ":pclass": "VRQCRY_12",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_12-VRQCRY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_12-VRQCRY_14": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        83,
+        52,
+        35,
+        84,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_3-VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_9-VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_11-VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_12-VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_13-VRQCRY_15"] }
+      ],
+      ":pclass": "VRQCRY_13",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_13-VRQCRY_15": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_14": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        84,
+        52,
+        27,
+        85,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_12-VRQCRY_14"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_14-VRQCRY_15"] }
+      ],
+      ":pclass": "VRQCRY_14",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_14-VRQCRY_15": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_15": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        84,
+        52,
+        34,
+        85,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_13-VRQCRY_15"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_14-VRQCRY_15"] }
+      ],
+      ":pclass": "VRQCRY_15",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        79,
+        52,
+        19,
+        81,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VRQCRY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_1-VRQCRY_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_2-VRQCRY_4"] }
+      ],
+      ":pclass": "VRQCRY_2",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_2-VRQCRY_4": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        79,
+        52,
+        36,
+        83,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_3-VRQCRY_9"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_3-VRQCRY_13"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VRQCRY_3"] }
+      ],
+      ":pclass": "VRQCRY_3",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_3-VRQCRY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_3-VRQCRY_9": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_4": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        81,
+        52,
+        21,
+        83,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_1-VRQCRY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_2-VRQCRY_4"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_4-VRQCRY_10"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_4-VRQCRY_12"] }
+      ],
+      ":pclass": "VRQCRY_4",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_4-VRQCRY_10": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_4-VRQCRY_12": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_5": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        22,
+        81,
+        52,
+        23,
+        82,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_5-VRQCRY_10"] }
+      ],
+      ":pclass": "VRQCRY_5",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_5-VRQCRY_10": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_6": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        81,
+        52,
+        26,
+        82,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_6-VRQCRY_10"] }
+      ],
+      ":pclass": "VRQCRY_6",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_6-VRQCRY_10": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_7": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        81,
+        52,
+        28,
+        82,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_7-VRQCRY_11"] }
+      ],
+      ":pclass": "VRQCRY_7",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_7-VRQCRY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_8": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        81,
+        52,
+        31,
+        82,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_8-VRQCRY_11"] }
+      ],
+      ":pclass": "VRQCRY_8",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_8-VRQCRY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_9": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        81,
+        52,
+        33,
+        83,
+        53,
+        "\"Church Right Yard\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_3-VRQCRY_9"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_9-VRQCRY_11"] },
+        { ":type": ":field-ref", ":names": ["VRQCRY_9-VRQCRY_13"] }
+      ],
+      ":pclass": "VRQCRY_9",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCRY_9-VRQCRY_11": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCRY_9-VRQCRY_13": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Right Yard-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCT": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        74,
+        52,
+        36,
+        78,
+        53,
+        "\"Church Tower\"",
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_1"] },
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_2"] }
+      ],
+      ":pclass": "Room3Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCT-VRQCTS_1": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower-Church Tower Stairs\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCT-VRQCTS_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower-Church Tower Stairs\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCT-VRQCTS_3": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower-Church Tower Stairs\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCTS_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        78,
+        52,
+        37,
+        79,
+        53,
+        "\"Church Tower Stairs\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VRQCTS_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_1"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VRQCRY_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VILG_55"] }
+      ],
+      ":pclass": "VRQCTS_1",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCTS_1-VILG_55": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower Stairs-Village\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCTS_1-VRQCRY_3": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower Stairs-Church Right Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCTS_1-VRQCTS_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower Stairs-Church Tower Stairs\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCTS_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        73,
+        52,
+        37,
+        78,
+        53,
+        "\"Church Tower Stairs\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VRQCTS_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_2-VRQCTS_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_2"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_2-VILG_47"] }
+      ],
+      ":pclass": "VRQCTS_2",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCTS_2-VILG_47": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower Stairs-Village\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCTS_2-VRQCTS_3": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower Stairs-Church Tower Stairs\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQCTS_3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        34,
+        73,
+        52,
+        36,
+        74,
+        53,
+        "\"Church Tower Stairs\"",
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_2-VRQCTS_3"] },
+        { ":type": ":field-ref", ":names": ["VRQCTS_3-VRQCLY_14"] }
+      ],
+      ":pclass": "VRQCTS_3",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQCTS_3-VRQCLY_14": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Church Tower Stairs-Church Left Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VRQC_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        72,
+        52,
+        26,
+        80,
+        53,
+        "\"Church\"",
+        { ":type": ":field-ref", ":names": ["VILG_52-VRQC_1"] },
+        { ":type": ":field-ref", ":names": ["VRQC_1-VRQC_2"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VRQC_1-VRQC_2": {
+    ":access": ":private",
+    ":initial": { ":name": "\"Church-Church\"", ":type": ":lvar" },
+    ":observable": false
+  },
+  "VRQC_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        72,
+        52,
+        32,
+        80,
+        53,
+        "\"Church\"",
+        { ":type": ":field-ref", ":names": ["VRQC_1-VRQC_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VYQR1_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        53,
+        52,
+        24,
+        56,
+        53,
+        "\"Village Yellow 1\"",
+        { ":type": ":field-ref", ":names": ["VYQR1_1-VYQR1_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VYQR1_1-VYQR1_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Yellow 1-Village Yellow 1\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VYQR1_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        56,
+        52,
+        24,
+        60,
+        53,
+        "\"Village Yellow 1\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VYQR1_2"] },
+        { ":type": ":field-ref", ":names": ["VYQR1_1-VYQR1_2"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VYQR2_1": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        52,
+        52,
+        10,
+        57,
+        53,
+        "\"Village Yellow 2\"",
+        { ":type": ":field-ref", ":names": ["VYQR2_1-VYQR2_2"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VYQR2_1-VYQR2_2": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Yellow 2-Village Yellow 2\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VYQR2_2": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        57,
+        52,
+        6,
+        61,
+        53,
+        "\"Village Yellow 2\"",
+        { ":type": ":field-ref", ":names": ["VILG_23-VYQR2_2"] },
+        { ":type": ":field-ref", ":names": ["VYQR2_1-VYQR2_2"] }
+      ],
+      ":pclass": "Room2Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VYQR3": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        66,
+        52,
+        9,
+        73,
+        53,
+        "\"Village Yellow 3\"",
+        { ":type": ":field-ref", ":names": ["VYQR3-VYQR3FY"] }
+      ],
+      ":pclass": "Room1Conn",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "VYQR3-VYQR3FY": {
+    ":access": ":private",
+    ":initial": {
+      ":name": "\"Village Yellow 3-Village Yellow 3 Front Yard\"",
+      ":type": ":lvar"
+    },
+    ":observable": false
+  },
+  "VYQR3FY": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        66,
+        52,
+        13,
+        73,
+        53,
+        "\"Village Yellow 3 Front Yard\"",
+        { ":type": ":field-ref", ":names": ["VYQR3-VYQR3FY"] },
+        { ":type": ":field-ref", ":names": ["VILG_46-VYQR3FY"] }
+      ],
+      ":pclass": "VYQR3FY",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_12_96_13_97_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        12,
+        96,
+        52,
+        13,
+        97,
+        53,
+        "\"c_12_96_13_97\"",
+        { ":type": ":field-ref", ":names": ["VILG_69-VBQRSTB_1"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_13_69_14_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        69,
+        52,
+        14,
+        70,
+        53,
+        "\"c_13_69_14_70\"",
+        { ":type": ":field-ref", ":names": ["VILG_46-VYQR3FY"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_13_88_15_89_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        88,
+        52,
+        15,
+        89,
+        53,
+        "\"c_13_88_15_89\"",
+        { ":type": ":field-ref", ":names": ["VILG_67-VBQRSTB_1"] }
+      ],
+      ":pclass": "DoubleDoor",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_15_96_16_97_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        15,
+        96,
+        52,
+        16,
+        97,
+        53,
+        "\"c_15_96_16_97\"",
+        { ":type": ":field-ref", ":names": ["VILG_71-VBQRSTB_1"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_17_73_18_74_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        73,
+        52,
+        18,
+        74,
+        53,
+        "\"c_17_73_18_74\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VRQCLY_13"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_17_78_18_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        78,
+        52,
+        18,
+        79,
+        53,
+        "\"c_17_78_18_79\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VRQCRY_2"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_20_58_21_59_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        58,
+        52,
+        21,
+        59,
+        53,
+        "\"c_20_58_21_59\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VYQR1_2"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_20_75_21_77_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        75,
+        52,
+        21,
+        77,
+        53,
+        "\"c_20_75_21_77\"",
+        { ":type": ":field-ref", ":names": ["VILG_52-VRQC_1"] }
+      ],
+      ":pclass": "DoubleDoor",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_20_91_21_92_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        91,
+        52,
+        21,
+        92,
+        53,
+        "\"c_20_91_21_92\"",
+        { ":type": ":field-ref", ":names": ["VILG_75-VBQR1"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_31_97_32_98_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        31,
+        97,
+        52,
+        32,
+        98,
+        53,
+        "\"c_31_97_32_98\"",
+        { ":type": ":field-ref", ":names": ["VILG_77-VOQR10"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_32_59_34_60_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        59,
+        52,
+        34,
+        60,
+        53,
+        "\"c_32_59_34_60\"",
+        { ":type": ":field-ref", ":names": ["VILG_28-VPQR7_3"] }
+      ],
+      ":pclass": "DoubleDoor",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_33_90_34_91_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        90,
+        52,
+        34,
+        91,
+        53,
+        "\"c_33_90_34_91\"",
+        { ":type": ":field-ref", ":names": ["VILG_73-VOQR9"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_34_74_36_74_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        34,
+        74,
+        52,
+        36,
+        74,
+        53,
+        "\"c_34_74_36_74\"",
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_3"] }
+      ],
+      ":pclass": "OpeningDoor",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_39_95_40_96_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        39,
+        95,
+        52,
+        40,
+        96,
+        53,
+        "\"c_39_95_40_96\"",
+        { ":type": ":field-ref", ":names": ["VILG_79-VOQR7"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_3_79_4_80_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        79,
+        52,
+        4,
+        80,
+        53,
+        "\"c_3_79_4_80\"",
+        { ":type": ":field-ref", ":names": ["VILG_53-VBQR3"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_3_92_4_93_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        92,
+        52,
+        4,
+        93,
+        53,
+        "\"c_3_92_4_93\"",
+        { ":type": ":field-ref", ":names": ["VILG_78-VBQR4_1"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_3_97_4_98_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        97,
+        52,
+        4,
+        98,
+        53,
+        "\"c_3_97_4_98\"",
+        { ":type": ":field-ref", ":names": ["VILG_78-VBQR5"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_40_54_41_55_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        40,
+        54,
+        52,
+        41,
+        55,
+        53,
+        "\"c_40_54_41_55\"",
+        { ":type": ":field-ref", ":names": ["VILG_19-VPQR3"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_40_62_42_63_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        40,
+        62,
+        52,
+        42,
+        63,
+        53,
+        "\"c_40_62_42_63\"",
+        { ":type": ":field-ref", ":names": ["VILG_36-VPQR5"] }
+      ],
+      ":pclass": "DoubleDoor",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_41_89_42_90_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        41,
+        89,
+        52,
+        42,
+        90,
+        53,
+        "\"c_41_89_42_90\"",
+        { ":type": ":field-ref", ":names": ["VILG_65-VOQR8"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_43_78_44_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        43,
+        78,
+        52,
+        44,
+        79,
+        53,
+        "\"c_43_78_44_79\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VOQR1"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_43_95_44_96_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        43,
+        95,
+        52,
+        44,
+        96,
+        53,
+        "\"c_43_95_44_96\"",
+        { ":type": ":field-ref", ":names": ["VILG_79-VOQR6"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_44_54_45_55_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        44,
+        54,
+        52,
+        45,
+        55,
+        53,
+        "\"c_44_54_45_55\"",
+        { ":type": ":field-ref", ":names": ["VILG_19-VPQR2"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_45_70_46_71_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        70,
+        52,
+        46,
+        71,
+        53,
+        "\"c_45_70_46_71\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VPQR6"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_46_61_47_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        46,
+        61,
+        52,
+        47,
+        62,
+        53,
+        "\"c_46_61_47_62\"",
+        { ":type": ":field-ref", ":names": ["VPQR5-VPQR4"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_46_87_47_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        46,
+        87,
+        52,
+        47,
+        88,
+        53,
+        "\"c_46_87_47_88\"",
+        { ":type": ":field-ref", ":names": ["VOQR2-VOQR4"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_47_83_48_84_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        47,
+        83,
+        52,
+        48,
+        84,
+        53,
+        "\"c_47_83_48_84\"",
+        { ":type": ":field-ref", ":names": ["VOQR1-VOQR2"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_48_54_49_55_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        48,
+        54,
+        52,
+        49,
+        55,
+        53,
+        "\"c_48_54_49_55\"",
+        { ":type": ":field-ref", ":names": ["VILG_20-VPQR1"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_48_87_49_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        48,
+        87,
+        52,
+        49,
+        88,
+        53,
+        "\"c_48_87_49_88\"",
+        { ":type": ":field-ref", ":names": ["VOQR2-VOQR3"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_48_95_49_96_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        48,
+        95,
+        52,
+        49,
+        96,
+        53,
+        "\"c_48_95_49_96\"",
+        { ":type": ":field-ref", ":names": ["VILG_80-VOQR5"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_49_57_50_58_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        49,
+        57,
+        52,
+        50,
+        58,
+        53,
+        "\"c_49_57_50_58\"",
+        { ":type": ":field-ref", ":names": ["VILG_20-VPQR4"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_6_59_7_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        6,
+        59,
+        52,
+        7,
+        61,
+        53,
+        "\"c_6_59_7_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_23-VYQR2_2"] }
+      ],
+      ":pclass": "DoubleDoor",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_9_69_10_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        69,
+        52,
+        10,
+        70,
+        53,
+        "\"c_9_69_10_70\"",
+        { ":type": ":field-ref", ":names": ["VYQR3-VYQR3FY"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "c_9_84_10_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        84,
+        52,
+        10,
+        85,
+        53,
+        "\"c_9_84_10_85\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VBQR2"] }
+      ],
+      ":pclass": "Door",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_10_74_10_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        74,
+        52,
+        10,
+        78,
+        53,
+        "\"ce_10_74_10_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_50"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_10_78_16_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        78,
+        52,
+        16,
+        78,
+        53,
+        "\"ce_10_78_16_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VILG_54"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_10_87_10_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        87,
+        52,
+        10,
+        88,
+        53,
+        "\"ce_10_87_10_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_66-VILG_67"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_10_87_13_87_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        10,
+        87,
+        52,
+        13,
+        87,
+        53,
+        "\"ce_10_87_13_87\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_67"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_11_52_13_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        52,
+        52,
+        13,
+        52,
+        53,
+        "\"ce_11_52_13_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_5-VILG_9"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_11_58_13_58_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        58,
+        52,
+        13,
+        58,
+        53,
+        "\"ce_11_58_13_58\"",
+        { ":type": ":field-ref", ":names": ["VILG_9-VILG_23"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_11_88_12_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        88,
+        52,
+        12,
+        88,
+        53,
+        "\"ce_11_88_12_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_67-VILG_68"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_11_94_12_94_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        94,
+        52,
+        12,
+        94,
+        53,
+        "\"ce_11_94_12_94\"",
+        { ":type": ":field-ref", ":names": ["VILG_68-VILG_69"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_11_95_11_97_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        11,
+        95,
+        52,
+        11,
+        97,
+        53,
+        "\"ce_11_95_11_97\"",
+        { ":type": ":field-ref", ":names": ["VILG_69-VILG_81"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_13_57_13_58_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        57,
+        52,
+        13,
+        58,
+        53,
+        "\"ce_13_57_13_58\"",
+        { ":type": ":field-ref", ":names": ["VILG_9-VILG_22"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_13_58_13_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        58,
+        52,
+        13,
+        61,
+        53,
+        "\"ce_13_58_13_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_23"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_13_61_16_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        61,
+        52,
+        16,
+        61,
+        53,
+        "\"ce_13_61_16_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_29"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_13_85_13_87_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        85,
+        52,
+        13,
+        87,
+        53,
+        "\"ce_13_85_13_87\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_61"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_13_87_19_87_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        13,
+        87,
+        52,
+        19,
+        87,
+        53,
+        "\"ce_13_87_19_87\"",
+        { ":type": ":field-ref", ":names": ["VILG_61-VILG_67"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_54_15_54_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        54,
+        52,
+        15,
+        54,
+        53,
+        "\"ce_14_54_15_54\"",
+        { ":type": ":field-ref", ":names": ["VILG_12-VILG_15"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_57_15_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        57,
+        52,
+        15,
+        57,
+        53,
+        "\"ce_14_57_15_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_15-VILG_22"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_66_19_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        66,
+        52,
+        19,
+        66,
+        53,
+        "\"ce_14_66_19_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_39-VILG_42"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_67_18_67_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        67,
+        52,
+        18,
+        67,
+        53,
+        "\"ce_14_67_18_67\"",
+        { ":type": ":field-ref", ":names": ["VILG_42-VILG_44"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_68_17_68_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        68,
+        52,
+        17,
+        68,
+        53,
+        "\"ce_14_68_17_68\"",
+        { ":type": ":field-ref", ":names": ["VILG_44-VILG_46"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_70_16_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        70,
+        52,
+        16,
+        70,
+        53,
+        "\"ce_14_70_16_70\"",
+        { ":type": ":field-ref", ":names": ["VILG_46-VILG_48"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_74_16_74_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        74,
+        52,
+        16,
+        74,
+        53,
+        "\"ce_14_74_16_74\"",
+        { ":type": ":field-ref", ":names": ["VILG_48-VILG_50"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_79_16_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        79,
+        52,
+        16,
+        79,
+        53,
+        "\"ce_14_79_16_79\"",
+        { ":type": ":field-ref", ":names": ["VILG_54-VILG_56"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_85_16_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        85,
+        52,
+        16,
+        85,
+        53,
+        "\"ce_14_85_16_85\"",
+        { ":type": ":field-ref", ":names": ["VILG_56-VILG_61"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_14_98_15_98_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        14,
+        98,
+        52,
+        15,
+        98,
+        53,
+        "\"ce_14_98_15_98\"",
+        { ":type": ":field-ref", ":names": ["VBQRSTB_1-VBQRSTB_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_15_56_15_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        15,
+        56,
+        52,
+        15,
+        57,
+        53,
+        "\"ce_15_56_15_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_15-VILG_21"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_15_57_16_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        15,
+        57,
+        52,
+        16,
+        57,
+        53,
+        "\"ce_15_57_16_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_21-VILG_22"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_54_17_54_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        54,
+        52,
+        17,
+        54,
+        53,
+        "\"ce_16_54_17_54\"",
+        { ":type": ":field-ref", ":names": ["VILG_12-VILG_16"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_56_16_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        56,
+        52,
+        16,
+        57,
+        53,
+        "\"ce_16_56_16_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_16-VILG_21"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_57_17_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        57,
+        52,
+        17,
+        57,
+        53,
+        "\"ce_16_57_17_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_16-VILG_22"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_61_16_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        61,
+        52,
+        16,
+        62,
+        53,
+        "\"ce_16_61_16_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_29-VILG_30"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_61_20_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        61,
+        52,
+        20,
+        61,
+        53,
+        "\"ce_16_61_20_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_22-VILG_30"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_82_16_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        82,
+        52,
+        16,
+        85,
+        53,
+        "\"ce_16_82_16_85\"",
+        { ":type": ":field-ref", ":names": ["VILG_56-VILG_57"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_85_17_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        85,
+        52,
+        17,
+        85,
+        53,
+        "\"ce_16_85_17_85\"",
+        { ":type": ":field-ref", ":names": ["VILG_57-VILG_61"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_88_17_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        88,
+        52,
+        17,
+        88,
+        53,
+        "\"ce_16_88_17_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_67-VILG_70"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_16_94_17_94_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        16,
+        94,
+        52,
+        17,
+        94,
+        53,
+        "\"ce_16_94_17_94\"",
+        { ":type": ":field-ref", ":names": ["VILG_70-VILG_71"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_17_62_23_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        62,
+        52,
+        23,
+        62,
+        53,
+        "\"ce_17_62_23_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_30-VILG_34"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_17_65_21_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        65,
+        52,
+        21,
+        65,
+        53,
+        "\"ce_17_65_21_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_39"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_17_84_17_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        84,
+        52,
+        17,
+        85,
+        53,
+        "\"ce_17_84_17_85\"",
+        { ":type": ":field-ref", ":names": ["VILG_57-VILG_58"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_17_85_18_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        85,
+        52,
+        18,
+        85,
+        53,
+        "\"ce_17_85_18_85\"",
+        { ":type": ":field-ref", ":names": ["VILG_58-VILG_61"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_17_89_17_91_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        17,
+        89,
+        52,
+        17,
+        91,
+        53,
+        "\"ce_17_89_17_91\"",
+        { ":type": ":field-ref", ":names": ["VILG_70-VILG_74"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_18_70_21_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        70,
+        52,
+        21,
+        70,
+        53,
+        "\"ce_18_70_21_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_7"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_18_71_20_71_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        71,
+        52,
+        20,
+        71,
+        53,
+        "\"ce_18_71_20_71\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_7-VRQCLY_13"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_18_81_19_81_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        18,
+        81,
+        52,
+        19,
+        81,
+        53,
+        "\"ce_18_81_19_81\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_2-VRQCRY_4"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_69_27_69_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        69,
+        52,
+        27,
+        69,
+        53,
+        "\"ce_19_69_27_69\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_3-VRQCLY_5"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_73_20_73_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        73,
+        52,
+        20,
+        73,
+        53,
+        "\"ce_19_73_20_73\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_13-VRQCLY_15"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_75_19_77_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        75,
+        52,
+        19,
+        77,
+        53,
+        "\"ce_19_75_19_77\"",
+        { ":type": ":field-ref", ":names": ["VILG_50-VILG_52"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_79_19_81_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        79,
+        52,
+        19,
+        81,
+        53,
+        "\"ce_19_79_19_81\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_1-VRQCRY_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_81_20_81_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        81,
+        52,
+        20,
+        81,
+        53,
+        "\"ce_19_81_20_81\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_1-VRQCRY_4"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_83_21_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        83,
+        52,
+        21,
+        83,
+        53,
+        "\"ce_19_83_21_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_4-VRQCRY_12"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_86_19_87_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        86,
+        52,
+        19,
+        87,
+        53,
+        "\"ce_19_86_19_87\"",
+        { ":type": ":field-ref", ":names": ["VILG_61-VILG_63"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_19_87_19_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        19,
+        87,
+        52,
+        19,
+        88,
+        53,
+        "\"ce_19_87_19_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_67"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_1_60_2_60_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        60,
+        52,
+        2,
+        60,
+        53,
+        "\"ce_1_60_2_60\"",
+        { ":type": ":field-ref", ":names": ["VILG_1-VILG_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_1_69_2_69_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        69,
+        52,
+        2,
+        69,
+        53,
+        "\"ce_1_69_2_69\"",
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_3"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_1_78_2_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        1,
+        78,
+        52,
+        2,
+        78,
+        53,
+        "\"ce_1_78_2_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_3-VILG_4"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_51_20_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        51,
+        52,
+        20,
+        52,
+        53,
+        "\"ce_20_51_20_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_5-VILG_6"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_68_27_68_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        68,
+        52,
+        27,
+        68,
+        53,
+        "\"ce_20_68_27_68\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_1-VRQCLY_3"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_84_27_84_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        84,
+        52,
+        27,
+        84,
+        53,
+        "\"ce_20_84_27_84\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_12-VRQCRY_14"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_88_28_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        88,
+        52,
+        28,
+        88,
+        53,
+        "\"ce_20_88_28_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_72"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_89_20_90_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        89,
+        52,
+        20,
+        90,
+        53,
+        "\"ce_20_89_20_90\"",
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_74"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_90_20_91_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        90,
+        52,
+        20,
+        91,
+        53,
+        "\"ce_20_90_20_91\"",
+        { ":type": ":field-ref", ":names": ["VILG_74-VILG_75"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_20_90_25_90_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        20,
+        90,
+        52,
+        25,
+        90,
+        53,
+        "\"ce_20_90_25_90\"",
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_75"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_21_56_24_56_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        56,
+        52,
+        24,
+        56,
+        53,
+        "\"ce_21_56_24_56\"",
+        { ":type": ":field-ref", ":names": ["VYQR1_1-VYQR1_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_21_65_21_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        65,
+        52,
+        21,
+        66,
+        53,
+        "\"ce_21_65_21_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_39-VILG_40"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_21_65_26_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        65,
+        52,
+        26,
+        65,
+        53,
+        "\"ce_21_65_26_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_40"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_21_82_21_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        82,
+        52,
+        21,
+        83,
+        53,
+        "\"ce_21_82_21_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_4-VRQCRY_10"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_21_83_26_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        21,
+        83,
+        52,
+        26,
+        83,
+        53,
+        "\"ce_21_83_26_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_10-VRQCRY_12"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_22_70_23_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        22,
+        70,
+        52,
+        23,
+        70,
+        53,
+        "\"ce_22_70_23_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_8"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_22_82_23_82_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        22,
+        82,
+        52,
+        23,
+        82,
+        53,
+        "\"ce_22_82_23_82\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_5-VRQCRY_10"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_23_61_23_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        23,
+        61,
+        52,
+        23,
+        62,
+        53,
+        "\"ce_23_61_23_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_30-VILG_31"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_23_62_26_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        23,
+        62,
+        52,
+        26,
+        62,
+        53,
+        "\"ce_23_62_26_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_31-VILG_34"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_24_91_25_91_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        24,
+        91,
+        52,
+        25,
+        91,
+        53,
+        "\"ce_24_91_25_91\"",
+        { ":type": ":field-ref", ":names": ["VILG_75-VILG_77"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_52_29_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        52,
+        52,
+        29,
+        52,
+        53,
+        "\"ce_25_52_29_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_6-VILG_10"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_53_30_53_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        53,
+        52,
+        30,
+        53,
+        53,
+        "\"ce_25_53_30_53\"",
+        { ":type": ":field-ref", ":names": ["VILG_10-VILG_13"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_54_29_54_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        54,
+        52,
+        29,
+        54,
+        53,
+        "\"ce_25_54_29_54\"",
+        { ":type": ":field-ref", ":names": ["VILG_13-VILG_17"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_61_29_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        61,
+        52,
+        29,
+        61,
+        53,
+        "\"ce_25_61_29_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_17-VILG_31"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_70_26_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        70,
+        52,
+        26,
+        70,
+        53,
+        "\"ce_25_70_26_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_9"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_82_26_82_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        82,
+        52,
+        26,
+        82,
+        53,
+        "\"ce_25_82_26_82\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_6-VRQCRY_10"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_90_25_91_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        90,
+        52,
+        25,
+        91,
+        53,
+        "\"ce_25_90_25_91\"",
+        { ":type": ":field-ref", ":names": ["VILG_75-VILG_76"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_90_28_90_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        90,
+        52,
+        28,
+        90,
+        53,
+        "\"ce_25_90_28_90\"",
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_76"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_25_91_31_91_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        25,
+        91,
+        52,
+        31,
+        91,
+        53,
+        "\"ce_25_91_31_91\"",
+        { ":type": ":field-ref", ":names": ["VILG_76-VILG_77"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_26_62_26_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        62,
+        52,
+        26,
+        65,
+        53,
+        "\"ce_26_62_26_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_34-VILG_35"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_26_62_30_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        62,
+        52,
+        30,
+        62,
+        53,
+        "\"ce_26_62_30_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_31-VILG_35"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_26_65_28_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        65,
+        52,
+        28,
+        65,
+        53,
+        "\"ce_26_65_28_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_40"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_26_72_26_80_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        72,
+        52,
+        26,
+        80,
+        53,
+        "\"ce_26_72_26_80\"",
+        { ":type": ":field-ref", ":names": ["VRQC_1-VRQC_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_26_82_26_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        82,
+        52,
+        26,
+        83,
+        53,
+        "\"ce_26_82_26_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_10-VRQCRY_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_26_83_27_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        26,
+        83,
+        52,
+        27,
+        83,
+        53,
+        "\"ce_26_83_27_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_11-VRQCRY_12"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_67_27_68_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        67,
+        52,
+        27,
+        68,
+        53,
+        "\"ce_27_67_27_68\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_1-VRQCLY_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_68_27_69_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        68,
+        52,
+        27,
+        69,
+        53,
+        "\"ce_27_68_27_69\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_3-VRQCLY_4"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_68_34_68_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        68,
+        52,
+        34,
+        68,
+        53,
+        "\"ce_27_68_34_68\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_2-VRQCLY_4"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_69_27_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        69,
+        52,
+        27,
+        70,
+        53,
+        "\"ce_27_69_27_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_5-VRQCLY_6"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_69_35_69_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        69,
+        52,
+        35,
+        69,
+        53,
+        "\"ce_27_69_35_69\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_4-VRQCLY_6"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_70_28_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        70,
+        52,
+        28,
+        70,
+        53,
+        "\"ce_27_70_28_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_10"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_82_28_82_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        82,
+        52,
+        28,
+        82,
+        53,
+        "\"ce_27_82_28_82\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_7-VRQCRY_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_83_27_84_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        83,
+        52,
+        27,
+        84,
+        53,
+        "\"ce_27_83_27_84\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_12-VRQCRY_13"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_83_32_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        83,
+        52,
+        32,
+        83,
+        53,
+        "\"ce_27_83_32_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_11-VRQCRY_13"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_84_27_85_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        84,
+        52,
+        27,
+        85,
+        53,
+        "\"ce_27_84_27_85\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_14-VRQCRY_15"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_27_84_34_84_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        27,
+        84,
+        52,
+        34,
+        84,
+        53,
+        "\"ce_27_84_34_84\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_13-VRQCRY_15"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_28_65_28_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        65,
+        52,
+        28,
+        66,
+        53,
+        "\"ce_28_65_28_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_40-VILG_41"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_28_65_35_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        65,
+        52,
+        35,
+        65,
+        53,
+        "\"ce_28_65_35_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_41"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_28_86_28_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        86,
+        52,
+        28,
+        88,
+        53,
+        "\"ce_28_86_28_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_63-VILG_64"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_28_88_28_90_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        88,
+        52,
+        28,
+        90,
+        53,
+        "\"ce_28_88_28_90\"",
+        { ":type": ":field-ref", ":names": ["VILG_72-VILG_73"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_28_88_37_88_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        88,
+        52,
+        37,
+        88,
+        53,
+        "\"ce_28_88_37_88\"",
+        { ":type": ":field-ref", ":names": ["VILG_64-VILG_73"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_28_90_31_90_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        28,
+        90,
+        52,
+        31,
+        90,
+        53,
+        "\"ce_28_90_31_90\"",
+        { ":type": ":field-ref", ":names": ["VILG_73-VILG_76"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_29_51_29_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        29,
+        51,
+        52,
+        29,
+        52,
+        53,
+        "\"ce_29_51_29_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_6-VILG_7"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_29_52_31_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        29,
+        52,
+        52,
+        31,
+        52,
+        53,
+        "\"ce_29_52_31_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_10"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_29_58_29_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        29,
+        58,
+        52,
+        29,
+        61,
+        53,
+        "\"ce_29_58_29_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_17-VILG_24"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_29_61_30_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        29,
+        61,
+        52,
+        30,
+        61,
+        53,
+        "\"ce_29_61_30_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_24-VILG_31"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_2_62_2_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        62,
+        52,
+        2,
+        65,
+        53,
+        "\"ce_2_62_2_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_2-VILG_32"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_2_74_2_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        74,
+        52,
+        2,
+        78,
+        53,
+        "\"ce_2_74_2_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_3-VILG_49"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_2_78_2_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        78,
+        52,
+        2,
+        79,
+        53,
+        "\"ce_2_78_2_79\"",
+        { ":type": ":field-ref", ":names": ["VILG_4-VILG_53"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_2_78_9_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        2,
+        78,
+        52,
+        9,
+        78,
+        53,
+        "\"ce_2_78_9_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_53"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_30_59_30_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        59,
+        52,
+        30,
+        61,
+        53,
+        "\"ce_30_59_30_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_24-VILG_26"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_30_61_30_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        61,
+        52,
+        30,
+        62,
+        53,
+        "\"ce_30_61_30_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_26-VILG_31"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_30_62_31_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        62,
+        52,
+        31,
+        62,
+        53,
+        "\"ce_30_62_31_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_26-VILG_35"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_30_70_31_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        70,
+        52,
+        31,
+        70,
+        53,
+        "\"ce_30_70_31_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_30_82_31_82_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        30,
+        82,
+        52,
+        31,
+        82,
+        53,
+        "\"ce_30_82_31_82\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_8-VRQCRY_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_31_54_35_54_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        31,
+        54,
+        52,
+        35,
+        54,
+        53,
+        "\"ce_31_54_35_54\"",
+        { ":type": ":field-ref", ":names": ["VPQR7_1-VPQR7_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_31_58_35_58_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        31,
+        58,
+        52,
+        35,
+        58,
+        53,
+        "\"ce_31_58_35_58\"",
+        { ":type": ":field-ref", ":names": ["VPQR7_2-VPQR7_3"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_32_62_34_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        62,
+        52,
+        34,
+        62,
+        53,
+        "\"ce_32_62_34_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_28-VILG_35"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_32_70_36_70_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        70,
+        52,
+        36,
+        70,
+        53,
+        "\"ce_32_70_36_70\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_6-VRQCLY_12"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_32_82_32_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        82,
+        52,
+        32,
+        83,
+        53,
+        "\"ce_32_82_32_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_9-VRQCRY_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_32_83_33_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        32,
+        83,
+        52,
+        33,
+        83,
+        53,
+        "\"ce_32_83_33_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_9-VRQCRY_13"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_33_71_36_71_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        71,
+        52,
+        36,
+        71,
+        53,
+        "\"ce_33_71_36_71\"",
+        { ":type": ":field-ref", ":names": ["VRQCLY_12-VRQCLY_14"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_33_78_36_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        78,
+        52,
+        36,
+        78,
+        53,
+        "\"ce_33_78_36_78\"",
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_1"] }
+      ],
+      ":pclass": "Cliff",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_33_79_36_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        79,
+        52,
+        36,
+        79,
+        53,
+        "\"ce_33_79_36_79\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VRQCRY_3"] }
+      ],
+      ":pclass": "Cliff",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_33_81_33_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        81,
+        52,
+        33,
+        83,
+        53,
+        "\"ce_33_81_33_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_3-VRQCRY_9"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_33_83_35_83_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        33,
+        83,
+        52,
+        35,
+        83,
+        53,
+        "\"ce_33_83_35_83\"",
+        { ":type": ":field-ref", ":names": ["VRQCRY_3-VRQCRY_13"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_34_73_36_73_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        34,
+        73,
+        52,
+        36,
+        73,
+        53,
+        "\"ce_34_73_36_73\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_3-VRQCLY_14"] }
+      ],
+      ":pclass": "Cliff",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_52_38_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        52,
+        52,
+        38,
+        52,
+        53,
+        "\"ce_35_52_38_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_62_35_64_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        62,
+        52,
+        35,
+        64,
+        53,
+        "\"ce_35_62_35_64\"",
+        { ":type": ":field-ref", ":names": ["VILG_27-VILG_35"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_64_35_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        64,
+        52,
+        35,
+        65,
+        53,
+        "\"ce_35_64_35_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_35-VILG_38"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_64_36_64_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        64,
+        52,
+        36,
+        64,
+        53,
+        "\"ce_35_64_36_64\"",
+        { ":type": ":field-ref", ":names": ["VILG_27-VILG_38"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_65_35_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        65,
+        52,
+        35,
+        66,
+        53,
+        "\"ce_35_65_35_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_38-VILG_41"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_66_43_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        66,
+        52,
+        43,
+        66,
+        53,
+        "\"ce_35_66_43_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_38-VILG_43"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_35_86_36_86_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        35,
+        86,
+        52,
+        36,
+        86,
+        53,
+        "\"ce_35_86_36_86\"",
+        { ":type": ":field-ref", ":names": ["VILG_62-VILG_64"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_53_39_53_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        53,
+        52,
+        39,
+        53,
+        53,
+        "\"ce_36_53_39_53\"",
+        { ":type": ":field-ref", ":names": ["VILG_11-VILG_14"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_59_36_64_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        59,
+        52,
+        36,
+        64,
+        53,
+        "\"ce_36_59_36_64\"",
+        { ":type": ":field-ref", ":names": ["VILG_25-VILG_27"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_64_39_64_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        64,
+        52,
+        39,
+        64,
+        53,
+        "\"ce_36_64_39_64\"",
+        { ":type": ":field-ref", ":names": ["VILG_25-VILG_38"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_67_45_67_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        67,
+        52,
+        45,
+        67,
+        53,
+        "\"ce_36_67_45_67\"",
+        { ":type": ":field-ref", ":names": ["VILG_43-VILG_45"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_73_36_74_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        73,
+        52,
+        36,
+        74,
+        53,
+        "\"ce_36_73_36_74\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_2-VRQCTS_3"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_74_36_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        74,
+        52,
+        36,
+        78,
+        53,
+        "\"ce_36_74_36_78\"",
+        { ":type": ":field-ref", ":names": ["VRQCT-VRQCTS_2"] }
+      ],
+      ":pclass": "Cliff",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_78_37_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        78,
+        52,
+        37,
+        78,
+        53,
+        "\"ce_36_78_37_78\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VRQCTS_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_85_36_86_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        85,
+        52,
+        36,
+        86,
+        53,
+        "\"ce_36_85_36_86\"",
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_62"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_36_86_37_86_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        36,
+        86,
+        52,
+        37,
+        86,
+        53,
+        "\"ce_36_86_37_86\"",
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_64"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_54_39_54_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        54,
+        52,
+        39,
+        54,
+        53,
+        "\"ce_37_54_39_54\"",
+        { ":type": ":field-ref", ":names": ["VILG_14-VILG_18"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_58_39_58_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        58,
+        52,
+        39,
+        58,
+        53,
+        "\"ce_37_58_39_58\"",
+        { ":type": ":field-ref", ":names": ["VILG_18-VILG_25"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_68_45_68_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        68,
+        52,
+        45,
+        68,
+        53,
+        "\"ce_37_68_45_68\"",
+        { ":type": ":field-ref", ":names": ["VILG_45-VILG_47"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_73_37_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        73,
+        52,
+        37,
+        78,
+        53,
+        "\"ce_37_73_37_78\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_2-VILG_47"] }
+      ],
+      ":pclass": "CorridorJoin",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_78_37_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        78,
+        52,
+        37,
+        79,
+        53,
+        "\"ce_37_78_37_79\"",
+        { ":type": ":field-ref", ":names": ["VRQCTS_1-VILG_55"] }
+      ],
+      ":pclass": "CorridorJoin",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_78_41_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        78,
+        52,
+        41,
+        78,
+        53,
+        "\"ce_37_78_41_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VILG_55"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_37_84_41_84_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        37,
+        84,
+        52,
+        41,
+        84,
+        53,
+        "\"ce_37_84_41_84\"",
+        { ":type": ":field-ref", ":names": ["VILG_55-VILG_59"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_38_51_38_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        38,
+        51,
+        52,
+        38,
+        52,
+        53,
+        "\"ce_38_51_38_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_7-VILG_8"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_38_52_39_52_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        38,
+        52,
+        52,
+        39,
+        52,
+        53,
+        "\"ce_38_52_39_52\"",
+        { ":type": ":field-ref", ":names": ["VILG_8-VILG_11"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_39_55_39_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        39,
+        55,
+        52,
+        39,
+        57,
+        53,
+        "\"ce_39_55_39_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_18-VILG_19"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_3_57_6_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        3,
+        57,
+        52,
+        6,
+        57,
+        53,
+        "\"ce_3_57_6_57\"",
+        { ":type": ":field-ref", ":names": ["VYQR2_1-VYQR2_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_40_64_42_64_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        40,
+        64,
+        52,
+        42,
+        64,
+        53,
+        "\"ce_40_64_42_64\"",
+        { ":type": ":field-ref", ":names": ["VILG_36-VILG_38"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_42_86_44_86_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        42,
+        86,
+        52,
+        44,
+        86,
+        53,
+        "\"ce_42_86_44_86\"",
+        { ":type": ":field-ref", ":names": ["VILG_59-VILG_65"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_42_93_44_93_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        42,
+        93,
+        52,
+        44,
+        93,
+        53,
+        "\"ce_42_93_44_93\"",
+        { ":type": ":field-ref", ":names": ["VILG_65-VILG_79"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_43_64_43_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        43,
+        64,
+        52,
+        43,
+        66,
+        53,
+        "\"ce_43_64_43_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_37-VILG_38"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_43_66_45_66_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        43,
+        66,
+        52,
+        45,
+        66,
+        53,
+        "\"ce_43_66_45_66\"",
+        { ":type": ":field-ref", ":names": ["VILG_37-VILG_43"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_44_93_44_95_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        44,
+        93,
+        52,
+        44,
+        95,
+        53,
+        "\"ce_44_93_44_95\"",
+        { ":type": ":field-ref", ":names": ["VILG_79-VILG_80"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_45_55_45_57_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        55,
+        52,
+        45,
+        57,
+        53,
+        "\"ce_45_55_45_57\"",
+        { ":type": ":field-ref", ":names": ["VILG_19-VILG_20"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_45_74_45_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        45,
+        74,
+        52,
+        45,
+        78,
+        53,
+        "\"ce_45_74_45_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_47-VILG_51"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_6_95_6_97_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        6,
+        95,
+        52,
+        6,
+        97,
+        53,
+        "\"ce_6_95_6_97\"",
+        { ":type": ":field-ref", ":names": ["VILG_78-VILG_81"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_7_87_10_87_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        7,
+        87,
+        52,
+        10,
+        87,
+        53,
+        "\"ce_7_87_10_87\"",
+        { ":type": ":field-ref", ":names": ["VILG_60-VILG_66"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_7_92_10_92_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        7,
+        92,
+        52,
+        10,
+        92,
+        53,
+        "\"ce_7_92_10_92\"",
+        { ":type": ":field-ref", ":names": ["VBQR4_1-VBQR4_2"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_8_62_8_65_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        8,
+        62,
+        52,
+        8,
+        65,
+        53,
+        "\"ce_8_62_8_65\"",
+        { ":type": ":field-ref", ":names": ["VILG_32-VILG_33"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_9_61_13_61_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        61,
+        52,
+        13,
+        61,
+        53,
+        "\"ce_9_61_13_61\"",
+        { ":type": ":field-ref", ":names": ["VILG_23-VILG_29"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_9_62_14_62_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        62,
+        52,
+        14,
+        62,
+        53,
+        "\"ce_9_62_14_62\"",
+        { ":type": ":field-ref", ":names": ["VILG_29-VILG_33"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_9_78_10_78_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        78,
+        52,
+        10,
+        78,
+        53,
+        "\"ce_9_78_10_78\"",
+        { ":type": ":field-ref", ":names": ["VILG_49-VILG_54"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  },
+  "ce_9_78_9_79_0": {
+    ":access": ":private",
+    ":initial": {
+      ":args": [
+        9,
+        78,
+        52,
+        9,
+        79,
+        53,
+        "\"ce_9_78_9_79\"",
+        { ":type": ":field-ref", ":names": ["VILG_53-VILG_54"] }
+      ],
+      ":pclass": "Extension",
+      ":type": ":pclass-ctor"
+    },
+    ":observable": false
+  }
+}
